@@ -8,7 +8,7 @@
 require_once 'Toyrobotsimulator.php';
 use PHPUnit\Framework\TestCase;
 
-class MainTest extends TestCase
+class ToyrobotsimulatorTest extends TestCase
 {
     public function testMain()
     {
